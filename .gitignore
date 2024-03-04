@@ -1,0 +1,10 @@
+/input
+/temp
+/unused
+*.pt
+*.ttf
+*.txt
+/__pycache__
+/output
+/runs
+.DS_Store
